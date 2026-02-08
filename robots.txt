@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://harshitIISc/personal_website.github.io/sitemap.xml
+Sitemap: https://harshitIISc.github.io/personal_website/sitemap.xml
